@@ -18,7 +18,8 @@
 ## 👋 About Me
 
 - 💻 I enjoy learning programming and building practical projects.
-- 🌱 Exploring web development, software development, and backend APIs.
+- 🌱 Exploring web development, software development, backend APIs, and the Internet of Things (IoT).
+- 🔌 Interested in IoT projects, sensors, and hands-on hardware experiments with Arduino Uno.
 - 🤝 Interested in collaborating, learning, and building useful projects.
 - 🎯 Focused on improving my skills through hands-on practice.
 - ⚡ Motto: learn by building, improve by doing.
@@ -43,6 +44,12 @@
   <a href="https://nodejs.org/" title="Node.js official website"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com/" title="Express.js documentation"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI documentation"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+</p>
+
+### IoT & Hardware
+<p>
+  <a href="https://docs.arduino.cc/hardware/uno-rev3/" title="Arduino Uno official documentation"><img src="https://img.shields.io/badge/Arduino%20Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno" /></a>
+  <a href="https://www.arduino.cc/en/Guide" title="Arduino getting started guide"><img src="https://img.shields.io/badge/IoT-Projects-00A98F?style=for-the-badge&logo=arduino&logoColor=white" alt="Internet of Things" /></a>
 </p>
 
 ### Development Environment
