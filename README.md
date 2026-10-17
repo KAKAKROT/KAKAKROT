@@ -27,8 +27,6 @@
 
 ## 🧰 Tech Stack
 
-*Select a badge to visit that technology's official website or documentation.*
-
 ### Languages & Web
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML documentation"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
