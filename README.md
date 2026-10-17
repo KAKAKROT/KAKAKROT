@@ -2,16 +2,14 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1100&color=00F7FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+KAKAKROT+%F0%9F%91%8B;Welcome+to+my+GitHub+profile;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+projects+%E2%9C%A8" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+KAKAKROT+%F0%9F%91%8B;Welcome+to+my+GitHub+profile;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+projects+%E2%9C%A8" alt="Animated typing introduction" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00AA&height=150&section=header&text=KAKAKROT&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated gradient header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00AA&height=145&section=header&text=KAKAKROT&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated gradient header" />
 
-  <a href="https://github.com/KAKAKROT">
-    <img src="https://komarev.com/ghpvc/?username=KAKAKROT&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile views" />
-  </a>
   <a href="https://github.com/KAKAKROT?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=KAKAKROT&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -21,15 +19,17 @@
 
 - 💻 I enjoy learning programming and building practical projects.
 - 🌱 Exploring web development, software development, and backend APIs.
-- 🎨 Interested in clean interfaces and useful user experiences.
-- 🤝 Open to learning with others and collaborating on projects.
+- 🤝 Interested in collaborating, learning, and building useful projects.
+- 🎯 Focused on improving my skills through hands-on practice.
 - ⚡ Motto: learn by building, improve by doing.
 
 ---
 
-## 🧰 Technologies I Work With
+## 🧰 Tech Stack
 
-### Programming Languages
+*Select a badge to visit that technology's official website or documentation.*
+
+### Languages & Web
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML documentation"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS documentation"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
@@ -43,54 +43,34 @@
 <p>
   <a href="https://react.dev/" title="React documentation"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
   <a href="https://nodejs.org/" title="Node.js official website"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" title="Express documentation"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://expressjs.com/" title="Express.js documentation"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI documentation"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
 </p>
 
-### Tools
+### Development Environment
 <p>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code official website"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" /></a>
   <a href="https://github.com/KAKAKROT" title="My GitHub profile"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KAKAKROT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7F00FF" alt="GitHub statistics for KAKAKROT" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKAKROT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="Most used programming languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KAKAKROT&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00AA&currStreakLabel=00F7FF" width="75%" alt="GitHub contribution streak" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!-- This image will appear after the Generate contribution snake workflow succeeds and creates the output branch. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KAKAKROT/KAKAKROT/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
-</div>
-
----
-
-## 🚀 Explore My Projects
-
-<div align="center">
   <a href="https://github.com/KAKAKROT?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+    <img src="https://img.shields.io/badge/See%20my%20projects-Open%20repositories-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Open my repositories" />
   </a>
+
+  <br /><br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1600&color=7F00FF&center=true&vCenter=true&width=600&lines=Every+project+is+a+chance+to+learn.;Small+steps+lead+to+big+progress.;Thanks+for+visiting+my+profile!+%F0%9F%9A%80" alt="Animated closing message" />
+
 </div>
 
 ---
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=00F7FF&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Keep+learning.+Keep+building.+%F0%9F%9A%80" alt="Animated goodbye message" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00AA,50:7F00FF,100:00F7FF&height=90&section=footer" width="100%" alt="Gradient footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00AA,50:7F00FF,100:00F7FF&height=90&section=footer&animation=fadeIn" width="100%" alt="Animated gradient footer" />
 </div>
